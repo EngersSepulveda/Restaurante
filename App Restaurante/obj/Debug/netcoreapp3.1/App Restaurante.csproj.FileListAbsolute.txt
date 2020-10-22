@@ -1,0 +1,22 @@
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.exe
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.deps.json
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.runtimeconfig.json
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.runtimeconfig.dev.json
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.dll
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\App Restaurante.pdb
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.AssemblyInfo.cs
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.dll
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.pdb
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.genruntimeconfig.cache
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App_Restaurante.PantallaInicio.resources
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App_Restaurante.PantallaCantidadPersonas.resources
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App_Restaurante.PantallaPedido.resources
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\AppRestaurante.Core.dll
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\bin\Debug\netcoreapp3.1\AppRestaurante.Core.pdb
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App_Restaurante.PantallaVerOrdenes.resources
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App_Restaurante.Properties.Resources.resources
+C:\Users\leona\source\repos\App Restaurante\App Restaurante\obj\Debug\netcoreapp3.1\App Restaurante.csproj.CopyComplete

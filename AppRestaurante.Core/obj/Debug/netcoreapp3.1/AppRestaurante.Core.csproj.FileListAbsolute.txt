@@ -1,0 +1,9 @@
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\bin\Debug\netcoreapp3.1\AppRestaurante.Core.deps.json
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\bin\Debug\netcoreapp3.1\AppRestaurante.Core.dll
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\bin\Debug\netcoreapp3.1\AppRestaurante.Core.pdb
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.AssemblyInfo.cs
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.dll
+C:\Users\leona\source\repos\App Restaurante\AppRestaurante.Core\obj\Debug\netcoreapp3.1\AppRestaurante.Core.pdb
